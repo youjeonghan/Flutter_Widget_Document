@@ -1,5 +1,6 @@
 # Flutter_Widget_Document
-> 플러터 위젯을 파악하기 위한 문서입니다.
+> 플러터 위젯을 파악하기 위한 **Flutter 한글 문서**입니다.<br>
+> **플러터 위젯에 익숙하지 않거나** **한글로 된 정보를 확인하고 싶으신분**들이 활용하여 **Flutter**와 친해지면 좋겠습니다.
 
 <br>
 
@@ -14,8 +15,32 @@
 
 </div>
 
-> 저장소에 기여해주시면 감사합니다!!<br>
+> **저장소에 기여해주시면 감사합니다!!**<br>
 > (현재 Github error로 인해 해당 repo의 Contributors가 나오지 않습니다. 기여해주신 분들은 꼭 표기하도록 하겠습니다.)
+><details>
+><summary><b>PR로 기여하는법</summary>
+>- markdown 파일로 위젯명.md 파일로 추가 부탁드립니다<br>
+>- 아래와 비슷한 양식으로 부탁드립니다<br>
+>  (칼같이 지키실 필요 없으며 다른 Flutter 유저분들에게 도움이 되겠다 싶으면 다 환영합니다.)
+>
+><br>
+>
+>```dart
+>특정위젯(
+>    // 위젯 속성1 설명
+>    속성1: 간단한 예시 or 워딩
+>
+>    // 위젯 속성2 설명
+>    속성2: 간단한 예시 or 워딩
+>)
+>```
+>[Dart API 문서 링크](https://api.flutter.dev/flutter/widgets/widgets-library.html)
+></details>
+
+<br>
+
+> **Widget**과 그외의 부분은 **Etc**로 나누었습니다.<br>
+> 현재 잘못된 분류도 존재하고 모자른점이 많으니 참고 부탁드립니다.
 
 <br>
 
@@ -61,4 +86,6 @@
   - [Scaffold.md](https://github.com/youjeonghan/Flutter_Widget_Document/blob/main/Etc/Scaffold.md)
   - [showDialog.md](https://github.com/youjeonghan/Flutter_Widget_Document/blob/main/Etc/showDialog.md)
 
+
+<br><br>
 
