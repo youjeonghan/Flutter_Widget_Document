@@ -8,11 +8,14 @@
 [![author](https://img.shields.io/badge/author-youjeonghan-brightgreen.svg?style=flat-square)](https://github.com/youjeonghan)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoujeonghan%2FFlutter_Widget_Document&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<a href="https://github.com/youjeonghan/Flutter_Widget_Document/graphs/contributors"><img src="https://opencollective.com/Flutter_Widget_Document/contributors.svg?width=720"></a>
+<!-- <a href="https://github.com/youjeonghan/Flutter_Widget_Document/graphs/contributors"><img src="https://opencollective.com/Flutter_Widget_Document/contributors.svg?width=720"></a> -->
+
+<img src="https://user-images.githubusercontent.com/57481424/170236549-cdc3a812-4dbb-4869-a72c-41a0dfcbcfe6.png" width="600" height="300"/>
 
 </div>
 
-> 저장소에 기여해주시면 감사합니다!!
+> 저장소에 기여해주시면 감사합니다!!<br>
+> (현재 Github error로 인해 해당 repo의 Contributors가 나오지 않습니다. 기여해주신 분들은 꼭 표기하도록 하겠습니다.)
 
 <br>
 
